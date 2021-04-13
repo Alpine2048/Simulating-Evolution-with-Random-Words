@@ -24,14 +24,14 @@ Ex: S-S2-E2 | This is a S species that had two mutations (S2 and E2) that gave r
 
 The phylogenetic tree would look something like this:
 
-"
+
         S  
     /       \
   S-S1     S-S2
   |       /    \
   |      S-S2  S-S2
   S-S1   -D3   -E2
-"
+
 
  WIP stuff:
  - Extinction events based on frequency-magnitude relationship (less severe "extinctions" or selective pressures occur less frequently, and likewise)
