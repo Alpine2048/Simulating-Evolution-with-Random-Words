@@ -30,12 +30,12 @@ Ex:
 The phylogenetic tree would look something like this:
 
 
-    S  
-/       \
-S-S1     S-S2
-|       /    \
-|      S-S2  S-S2
-S-S1   -D3   -E2
+             S  
+         /       \
+        S-S1     S-S2
+        |       /    \
+        |      S-S2  S-S2
+        S-S1   -D3   -E2
 
 
  WIP stuff:
