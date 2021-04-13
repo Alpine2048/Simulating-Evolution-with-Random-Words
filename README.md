@@ -17,20 +17,25 @@ Generation: #(starting from 0)
 The number in the / / is the population of that species. The sequence of letters and numbers after that is the species tag, or the name persay. Then you get the "DNA" sequence.
 With the species tag, one can construct a phylogeny where a one mutation difference results in two species (this is an assumption). The first letter tells you which primordial species this species originated from, but the letter# sequences after are not related at all to the primordial species and just serve as "names" assigned to the mutation that speciated it.
 
-Ex: S-S2-E2 | This is a S species that had two mutations (S2 and E2) that gave rise to the current species. The S2 mutation here would not be the same S2 mutation referred to b             | by E-S2 for example, but would be the same for all S primordial originated species.
-    S       | This is the primordial species that has supposedly not gone extinct and survives
+Ex: 
+
+    S-S2-E2 | This is a S species that had two mutations (S2 and E2) that gave rise to the current species. The S2 mutation here would not be the same S2 mutation referred to b             | by E-S2 for example, but would be the same for all S primordial originated species.
+
+    S       | This is the primordial species that has supposedly not gone extinct and survives.
+    
     S-S2-D3 | This species has a common ancestor (S-S2) with S-S2-E2. 
+    
     S-S1    | This species originated through a mutation of the primordial S species.
 
 The phylogenetic tree would look something like this:
 
 
-        S  
-    /       \
-  S-S1     S-S2
-  |       /    \
-  |      S-S2  S-S2
-  S-S1   -D3   -E2
+    S  
+/       \
+S-S1     S-S2
+|       /    \
+|      S-S2  S-S2
+S-S1   -D3   -E2
 
 
  WIP stuff:
