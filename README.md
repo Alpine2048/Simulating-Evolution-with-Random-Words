@@ -1,2 +1,2 @@
 # Simulating-Evolution-with-Random-Words
-Monke on keyboard eventually writes shakespeare. Funny cell with base pairs eventually makes monke.
+A monke on a keyboard given sufficient time will eventually write the entire works of Shakespeare. A cellular organism given sufficient resources and time will eventually give rise to monke.
